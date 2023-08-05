@@ -1,3 +1,3 @@
-working directory 👍
-staging area   💯
-git directory   🥇
++ **_working directory_** 👍
++ **_staging area_**   💯
++ **_git directory_**   🥇 👍
