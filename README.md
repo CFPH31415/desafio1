@@ -1,1 +1,3 @@
-# desafio1
+working directory 👍
+staging area   💯
+git directory   🥇
